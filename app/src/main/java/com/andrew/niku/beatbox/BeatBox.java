@@ -47,10 +47,6 @@ public class BeatBox {
       mSounds.add(sound);
     }
 
-    if (2==2) {
-      int aNumber = 3;
-    }
-
   }
 
 }
